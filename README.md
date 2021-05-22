@@ -1,0 +1,2 @@
+# hospitalmanagemnt
+developed in C++
